@@ -5,7 +5,3 @@
   [x]
   (/ (reduce + x) (count x))
 )
-
-
-
-

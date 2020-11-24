@@ -5,7 +5,3 @@
   [x]
   (first (reverse x))
 )
-
-
-
-
