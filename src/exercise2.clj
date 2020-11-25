@@ -5,7 +5,3 @@
   [x]
   (filter (fn [element] (> element 5)) x )
 )
-
-
-
-
